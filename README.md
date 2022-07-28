@@ -1,5 +1,6 @@
 
-<h3>Hello, I'm <i>Joel</i>, Software Developer 💻 </h3>
+<h1 align="center">Hello, I'm Joel Trinidad</h1> 
+<h3 align="center">Software Developer 💻 </h3>
 
 <h2> About Me </h2>
 - 🌱 I’m currently learning JavaScript, TypeScript and React
