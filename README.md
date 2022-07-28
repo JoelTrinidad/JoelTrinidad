@@ -5,8 +5,9 @@
 <h3> About Me </h2>
 - 🌱 I’m currently learning JavaScript, TypeScript and React
 
+<br>
 
-<h3> Skills </h2>
+<h3> Languages and Tools </h2>
 
 ![C](https://img.shields.io/badge/C-gray.svg?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
@@ -33,6 +34,8 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-a8cd37?&style=flat-square&logo=apache%20netbeans%20IDE&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
+
+<br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-fb6t1ngdz-joeltrinidad.vercel.app/api/top-langs/?username=JoelTrinidad&count_private=true&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fb6t1ngdz-joeltrinidad.vercel.app/api?username=JoelTrinidad&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
 | ------------- | ------------- |
