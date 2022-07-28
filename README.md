@@ -2,11 +2,11 @@
 <h1 align="center">Hello, I'm Joel Trinidad</h1> 
 <h3 align="center">Software Developer 💻 </h3>
 
-<h2> About Me </h2>
+<h3> About Me </h2>
 - 🌱 I’m currently learning JavaScript, TypeScript and React
 
 
-<h2> Skills </h2>
+<h3> Skills </h2>
 
 ![C](https://img.shields.io/badge/C-gray.svg?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
