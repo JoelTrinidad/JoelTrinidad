@@ -39,5 +39,5 @@
 
 <h3>Statistical Data</h3>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img src="https://github-readme-stats-fb6t1ngdz-joeltrinidad.vercel.app/api/top-langs/?username=JoelTrinidad&count_private=true&layout=compact&theme=tokyonight" alt="Top langs" /> </a> </p>
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fb6t1ngdz-joeltrinidad.vercel.app/api?username=JoelTrinidad&show_icons=true&theme=tokyonight" alt="My stats" /></a> <p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img src="https://github-readme-stats-2gxwgekv7-joeltrinidad.vercel.app/api/top-langs/?username=JoelTrinidad&count_private=true&layout=compact&theme=tokyonight" alt="Top langs" /> </a> </p>
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-2gxwgekv7-joeltrinidad.vercel.app/api?username=JoelTrinidad&show_icons=true&theme=tokyonight" alt="My stats" /></a> <p>
